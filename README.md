@@ -2,7 +2,7 @@
 
 Author: Rishyendra Medamanuri, Pranav Narala, Sripad Ganti
 
-[![Video Thumbnail](Screen Shot 2023-07-25 at 10.42.49 PM.png)](https://www.youtube.com/watch?v=P_B3eLVbQvA)
+[![Video Thumbnail](thumbnail.png)](https://www.youtube.com/watch?v=P_B3eLVbQvA)
 
 ## CMJ Problem 1230
 A Heronian triangle is a triangle with positive integer side lengths and positive integer area. Denoting the side lengths of a Heronian triangle by a, b, and c, the triangle is called primitive if gcd(a, b, c) = 1. We shall say that a primitive Heronian triangle has an equivalent rectangle if there exists a rectangle with integer length and width that shares the same perimeter and area as the triangle. Show that infinitely many primitive Heronian triangles have equivalent rectangles.
